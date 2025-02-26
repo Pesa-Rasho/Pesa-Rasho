@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pesandu Rashodya</h1>
-<h3 align="center">I am a 19 year old tech enthusiastic not trying to work a 9-5 and start my own company :).</h3>
+<h3 align="center">I am a 19 year old tech enthusiastic.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pesa-rasho" alt="pesa-rasho" /></a> </p>
 
