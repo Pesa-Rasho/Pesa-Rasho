@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **pesandurashodya@gmail.com**
 
-- 📄 Know about my experiences [Will upload soon (Actually I don't have one :/ ).](Will upload soon (Actually I don't have one :/ ).)
-
-- ⚡ Fun fact **I am a introverted extrovert. (Maybe I am a introvert. Who knows!)**
+- ⚡ Fun fact **I am a introverted extrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
