@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pesa-rasho" alt="pesa-rasho" /></a> </p>
 
-- 🔭 I’m currently working on **ReRead**
+- 🔭 I’m currently working on **ModelBank**
 
 - 🌱 I’m currently learning **React, Angular, SpringBoot and Machine Learning(not sure about this one though).**
 
 - 👨‍💻 All of my projects are available at [https://pesa-rasho.github.io/Portfolio/](https://pesa-rasho.github.io/Portfolio/)
 
-- 💬 Ask me about **React, HTML, CSS, JS, PHP, MySQL, Java, Python and anything you need (except my social life)**
+- 💬 Ask me about **React, HTML, CSS, JS, MySQL, Java, Python**
 
 - 📫 How to reach me **pesandurashodya@gmail.com**
 
