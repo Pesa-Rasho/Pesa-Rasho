@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ModelBank**
 
-- 🌱 I’m currently learning **React, Angular, SpringBoot and Machine Learning.**
+- 🌱 I’m currently learning **React, SpringBoot, DevOps and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://pesa-rasho.github.io/Portfolio/](https://pesa-rasho.github.io/Portfolio/)
 
