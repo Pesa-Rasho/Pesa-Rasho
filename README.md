@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, SpringBoot, DevOps and Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://pesa-rasho.github.io/Portfolio/](https://pesa-rasho.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Pesandu Rashodya]([https://pesa-rasho.github.io/Portfolio/](https://pesandu-rashodya.vercel.app/))
 
 - 💬 Ask me about **React, HTML, CSS, JS, MySQL, Java, Python**
 
