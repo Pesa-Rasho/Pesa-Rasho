@@ -66,16 +66,6 @@ const pesandu = {
 </div>
 
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **ModelBank** | Innovative banking solution | React, Spring Boot, MySQL |
-| **Portfolio** | Personal portfolio website | React, Vercel |
-
-</div>
 
 ## 🌟 GitHub Highlights
 
