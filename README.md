@@ -1,124 +1,142 @@
 <div align="center">
 
-# 👨‍💻 Pesandu Rashodya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer | Tech Enthusiast | Lifelong Learner
+# Pesandu Rashodya
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;React+%7C+Spring+Boot+%7C+DevOps;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+**Full Stack Developer · Cloud Architect · Security Enthusiast**
 
-<p align="center">
-  <a href="https://pesandu-rashodya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/pesandu-subhasinghe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pesandurashodya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.instagram.com/savage19_life/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+scalable+systems+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;React+%7C+Spring+Boot+%7C+DevOps+%7C+Cloud;Clean+code.+Solid+architecture.+Real+impact.)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://pesandu-rashodya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=64FFDA&labelColor=0A0A0A" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pesandu-subhasinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=0A0A0A" />
+  </a>
+  &nbsp;
+  <a href="mailto:pesandurashodya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0A0A0A" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/savage19_life/">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0A0A0A" />
+  </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pesa-rasho&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pesa-rasho&label=Profile+Views&color=64FFDA&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
 ```typescript
-const pesandu = {
-    age: 20,
-    location: "Sri Lanka 🇱🇰",
-    currentProject: "ModelBank",
-    personality: "Introverted Extrovert",
-    learning: ["React", "Spring Boot", "DevOps", "Machine Learning"],
-    askMeAbout: ["Web Development", "Backend Architecture", "Database Design"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+const pesandu: Developer = {
+  age:         20,
+  location:    "Sri Lanka 🇱🇰",
+  currentFocus: "Mini SOC Lab — SIEM + attack simulation & threat detection",
+  personality: "Introverted Extrovert",
+  stack:       ["React", "Spring Boot", "Node.js", "AWS", "Docker", "K8s"],
+  interests:   ["DevSecOps", "Cloud Security", "Threat Detection", "AppSec"],
+  philosophy:  "Ship fast. Refactor often. Never stop learning.",
+  funFact:     "console.log() is a valid debugging strategy. Fight me. 😄"
 };
 ```
 
-## 💼 What I'm Up To
+---
 
-- 🔭 Currently working on **ModelBank** - Building innovative banking solutions
-- 🌱 Learning **React ecosystem, Spring Boot microservices, DevOps practices & ML fundamentals**
-- 💡 Exploring **Cloud architecture and modern deployment strategies**
-- 👨‍💻 Check out my portfolio at **[pesandu-rashodya.vercel.app](https://pesandu-rashodya.vercel.app/)**
-- 💬 Ask me about **React, Java, Python, Web Development, or Database Design**
-- 📫 Reach me at **pesandurashodya@gmail.com**
+## Currently
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-
-### ⚙️ DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=circleci&logoColor=white)
-
-### 🔐 Security & Networking
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 🌟 GitHub Highlights
-
-- 🎓 Passionate about learning and implementing new technologies
-- 💡 Focus on clean code and best practices
-- 🤝 Open to collaboration on interesting projects
-- 📚 Continuously expanding knowledge in full-stack development
-
-## 💬 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss tech, share ideas, or just say hi, feel free to reach out!
-
-<div align="center">
-
-### 📫 Get in Touch
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://pesandu-rashodya.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pesandu-subhasinghe)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pesandurashodya@gmail.com)
+| | |
+|---|---|
+| 🏗️ **Building** | **Mini SOC Lab** — SIEM setup + real attack simulation & detection pipelines |
+| 📖 **Learning** | DevOps · DevSecOps · Cloud Architecture · Cybersecurity |
+| 🔬 **Exploring** | Threat detection, log analysis, CI/CD security hardening & cloud-native defense |
+| 🤝 **Open to** | Collaborations on impactful open-source projects |
 
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-0D1117?style=flat-square&logo=amazons3&logoColor=569A31)
+![Lambda](https://img.shields.io/badge/Lambda-0D1117?style=flat-square&logo=awslambda&logoColor=FF9900)
+
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=EE0000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+### Security & Networking
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=004170)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-0D1117?style=flat-square&logo=owasp&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-0D1117?style=flat-square&logo=auth0&logoColor=EB5424)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=FFFFFF)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pesa-rasho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesa-rasho&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8B949E&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pesa-rasho&theme=github-dark-blue&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+**[pesandu-rashodya.vercel.app](https://pesandu-rashodya.vercel.app/)** · **[pesandurashodya@gmail.com](mailto:pesandurashodya@gmail.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 </div>
